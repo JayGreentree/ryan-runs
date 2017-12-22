@@ -1,0 +1,21 @@
+// -------------------------------
+// FOOTER
+// -------------------------------
+.footer {
+  color: lighten($text-color, 25%);
+  font-size: .8rem;
+  margin-bottom: 2rem;
+  padding-top: 3rem;
+}
+
+.footer--single {
+  text-align: center;
+}
+
+#post-nav {
+	padding-top: 25px;
+}
+
+#post-nav .prev {
+	padding-right: 10px;
+}
