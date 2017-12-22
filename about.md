@@ -5,4 +5,4 @@ layout: page
 order: 0
 ---
 
-A micro blog documentary of my marathon training. Ryan Irelan, Austin, TX.
+This is the placeholder text for your about page. You can edit this text under Account on Micro.blog.
