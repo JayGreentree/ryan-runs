@@ -1,0 +1,150 @@
+// -------------------------------
+// MICROBLOG
+// -------------------------------
+
+body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+.home {
+  max-width: 520px;
+  width: 90%;
+}
+
+.single {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.post {
+  img {
+    height: auto;
+    width: 100%;
+  }
+}
+
+.post:not(:last-of-type) {
+  border-bottom: 1px solid #EEE;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.post--single {
+  margin: 3rem auto;
+  max-width: 1000px;
+  text-align: left;
+  p {
+    font-size: 1.4rem;
+  }
+  img {
+    height: auto;
+    max-width: 450px;
+    width: 100%;
+  }
+}
+
+.post__footer {
+  color: lighten($text-color, 20%);
+  font-size: .85rem;
+  padding-top: 1.5rem;
+  a {
+    color: inherit;
+  }
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 1.4rem;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h2 {
+  font-size: 1.3rem;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h4 {
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+ul {
+	list-style: disc inside;
+	padding-top: 5px;
+	padding-bottom: 15px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+li {
+  margin-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+body.single img{
+    display: block;
+    margin: auto;
+}
+
+body.single main {
+    margin-left: auto;
+    margin-right: auto;
+   	width: 75%;
+}
+
+body.single header {
+    margin: 1rem 0 1.5rem 0;
+}
+
+pre {
+    display: block;
+    padding: 9.5px;
+    margin: 0 0 10px;
+    font-size: 13px;
+    line-height: 1.42857143;
+    color: #333;
+    word-break: break-all;
+    word-wrap: break-word;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+blockquote {
+	padding-left: 20px;
+	margin: 20px;
+	border-left: 1px solid lightgray;
+}
+
+ol {
+	list-style: decimal;
+	padding-left: 20px;
+	padding-bottom: 15px;
+}
+
+sup {
+	vertical-align: super;
+}
