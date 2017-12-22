@@ -1,0 +1,91 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Ryan Runs",
+	"home_page_url": "https://www.ryanruns.com/",
+	"feed_url": "https://www.ryanruns.com/feed.json",
+	"items": [
+		
+		{
+			"id": "http://ryan.micro.blog/2017/12/22/marathon-wrapup.html",
+	      	
+			"title": "Marathon Wrap-up",
+			
+			"content_html": "<p>I am wrapping up this version of my microblog with a recap of the culmination of months of training: completing my first marathon.</p>\n\n<h2 id=\"the-weather\">The Weather</h2>\n\n<ul>\n  <li>Overcast but warm. Much warmer than I had anticipated. I showed up at the start in a light racing jacket so I stayed warm but really didn’t need it.</li>\n  <li>Last year it poured for 5 miles of my half marathon. I was soaked <em>and</em> cold because of colder temperatures. This year it poured for a couple of miles but it was humid and warm (6os).</li>\n  <li>It got much warmer as the morning went on. The sun came out, which wasn’t in the forecast.</li>\n  <li>I trained in Austin, Texas Summer and Fall weather. I’m very accustomed to the heat and running in it. But I let my guard down.</li>\n</ul>\n\n<h2 id=\"what-i-did-wrong\">What I Did Wrong</h2>\n\n<ul>\n  <li>I didn’t hydrate enough in the first 12 miles of the race. I met up with my wife and daughter around mid-race and realized my water bottle was still too full and my Gatorade Endurance bottle was also too full. I should’ve completely depleted both by mile 12.</li>\n  <li>I trusted the weather forecast and didn’t change plans once on the course. </li>\n  <li>I became dehydrated mid-race and at mile 14 my calf muscles started cramping. I went from running to that weird hoppity hop like I was stepping on hot coals.</li>\n  <li>I didn’t rehydrate fast enough (I don’t know if I could), which meant more walking than I really should’ve done.</li>\n</ul>\n\n<h2 id=\"what-i-did-right\">What I Did Right</h2>\n\n<ul>\n  <li>I started the race slow and easy. I didn’t worry too much about whether I could finish (barring injury or illness) because I would bring it home even if I had to fight hard (Narrator: And, oh, how he did).</li>\n  <li>No lost toenails, no foot issues, no blisters, no chafing. My work on properly lubing and using only gear I was experienced with really paid off. I had a rough day but it could’ve been worse with these completely preventable issues.</li>\n  <li>I trained with the course drink (Gatorade Endurance) because I wanted to be prepared to have to consume it without any worry about stomach problems. This turned out to be a really, really smart move.</li>\n  <li>I carried two soft Ultimate Direction water bottles. One had water, one had the Gatorade Endurance. The plan was to fill up the Gatorade one at every available aid station and hand off the water one after the first half marathon when I saw my support team (my wife and daughter).</li>\n  <li>I also trained using the same gels for almost the entirety of my training schedule. This also meant I could down gels without worrying about stomach issues.</li>\n  <li>I kept a cool head when things started to go wrong. Once I hydrated more my thoughts became even more lucid and rational. I attribute this to having hit rough spots during my training and knowing that hydration is the linchpin of this entire thing.</li>\n</ul>\n\n<h2 id=\"final-thoughts\">Final Thoughts</h2>\n\n<ul>\n  <li>I’m proud of my overall performance because I met my goal of finishing.</li>\n  <li>I’m proud that I kept cool under enormous personal pressure. I’ve trained for this race since August, thought about it since winter, and it became a huge goal for me.</li>\n  <li>I met a group of guys who all worked together to finish the race. I’m very insular and a loner when it comes to running. This was a nice change (even if it was mostly out of necessity).</li>\n</ul>\n\n<p><strong>Will a run a marathon again?</strong></p>\n\n<p>Yes. I want to improve in the areas where I messed up. I’ll be back at it.</p>\n",
+			"date_published": "2017-12-21T20:36:00-06:00",
+			"url": "https://www.ryanruns.com/2017/12/21/marathon-wrapup.html"
+		},
+		
+		{
+			"id": "http://ryan.micro.blog/2017/12/04/had-a-race.html",
+	      	
+			"content_html": "<p>Had a race report written but app crashed and lost it all. Will try again later this week. </p>\n",
+			"date_published": "2017-12-04T08:10:00-06:00",
+			"url": "https://www.ryanruns.com/2017/12/04/had-a-race.html"
+		},
+		
+		{
+			"id": "http://ryan.micro.blog/2017/12/03/i-mismanaged-the.html",
+	      	
+			"content_html": "<p>I mismanaged the first 12 miles of fluid intake and it caught up with me. The weather was warmer than expected and I lost track of my hydration. Around mile 14 I had cramping and slowed down to focus on getting as much salty fluids (Gatorade Endurance) in me. </p>\n",
+			"date_published": "2017-12-03T15:27:00-06:00",
+			"url": "https://www.ryanruns.com/2017/12/03/i-mismanaged-the.html"
+		},
+		
+		{
+			"id": "http://ryan.micro.blog/2017/12/03/marathon-complete-took.html",
+	      	
+			"content_html": "<p>Marathon complete! Took longer than planned because of calf cramping. But I crossed that frickin finish line. 👍🏃🏼‍♂️🍺</p>\n",
+			"date_published": "2017-12-03T15:15:00-06:00",
+			"url": "https://www.ryanruns.com/2017/12/03/marathon-complete-took.html"
+		},
+		
+		{
+			"id": "http://ryan.micro.blog/2017/12/02/checked-into-the.html",
+	      	
+			"content_html": "<p>Checked into the hotel. Heading over to get my bib. </p>\n",
+			"date_published": "2017-12-02T14:06:00-06:00",
+			"url": "https://www.ryanruns.com/2017/12/02/checked-into-the.html"
+		},
+		
+		{
+			"id": "http://ryan.micro.blog/2017/12/01/i-will-run.html",
+	      	
+			"content_html": "<p>I will run in the Saucony Guide ISOs on Sunday. Much of my training was done in Mizunos, which ended up injuring me. Switched back to Saucony in late October. </p>\n\n<p><img src=\"http://www.ryanruns.com/uploads/2017/95d6f73a16.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-01T08:14:00-06:00",
+			"url": "https://www.ryanruns.com/2017/12/01/i-will-run.html"
+		},
+		
+		{
+			"id": "http://ryan.micro.blog/2017/12/01/days-until-the.html",
+	      	
+			"content_html": "<p>2 days until the race. Start time is 7:15am on Sunday.</p>\n",
+			"date_published": "2017-12-01T08:10:00-06:00",
+			"url": "https://www.ryanruns.com/2017/12/01/days-until-the.html"
+		},
+		
+		{
+			"id": "http://ryan.micro.blog/2017/12/01/first-marathon-stress.html",
+	      	
+			"content_html": "<p>First marathon stress dream: was running late for the start, my shoes were knee high and I couldn’t lace them. </p>\n",
+			"date_published": "2017-12-01T08:09:00-06:00",
+			"url": "https://www.ryanruns.com/2017/12/01/first-marathon-stress.html"
+		},
+		
+		{
+			"id": "http://ryan.micro.blog/2017/11/29/last-training-run.html",
+	      	
+			"content_html": "<p>Last training run today. Now to focus on more rest, perhaps a bit of carbo-loading, and getting my head straight. </p>\n",
+			"date_published": "2017-11-29T08:17:00-06:00",
+			"url": "https://www.ryanruns.com/2017/11/29/last-training-run.html"
+		},
+		
+		{
+			"id": "http://ryan.micro.blog/2017/11/27/making-my-playlist.html",
+	      	
+			"content_html": "<p>Making my playlist for Sunday. For a while I didn’t run with headphones but enjoying it again. </p>\n",
+			"date_published": "2017-11-27T17:06:00-06:00",
+			"url": "https://www.ryanruns.com/2017/11/27/making-my-playlist.html"
+		}
+		
+	]
+}
