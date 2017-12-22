@@ -1,0 +1,32 @@
+email: your-email@domain.com
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+  sass_dir: assets/stylesheets
+  style: :compressed
+
+title: "Ryan Runs"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/ryan\">@ryan on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/ryan\">@ryan on Micro.blog</a>."
+baseurl: ""
+url: "https://www.ryanruns.com"
+markdown: "kramdown"
+username: "ryan"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Ryan Runs"
+name: "Ryan Runs"
+gravatar_hash: "c0798fea101453afab4d824b225ba181"
+avatar: "https://micro.blog/ryan/avatar.jpg"
+full_name: "Ryan Runs"
+bio: ""
+twitter_username: ""
+github_username: ""
+instagram_username: ""
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "US/Indiana-Starke"
+site_id: "1549"
