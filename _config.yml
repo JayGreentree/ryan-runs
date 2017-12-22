@@ -7,7 +7,7 @@ sass:
   sass_dir: assets/stylesheets
   style: :compressed
 
-title: "Ryan Runs"
+title: "Ryan Irelan"
 tagline: ""
 description: "Follow <a href=\"https://micro.blog/ryan\">@ryan on Micro.blog</a>."
 credits: "Follow <a href=\"https://micro.blog/ryan\">@ryan on Micro.blog</a>."
@@ -17,11 +17,11 @@ markdown: "kramdown"
 username: "ryan"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
-author: "Ryan Runs"
-name: "Ryan Runs"
+author: "Ryan Irelan"
+name: "Ryan Irelan"
 gravatar_hash: "c0798fea101453afab4d824b225ba181"
 avatar: "https://micro.blog/ryan/avatar.jpg"
-full_name: "Ryan Runs"
+full_name: "Ryan Irelan"
 bio: ""
 twitter_username: ""
 github_username: ""
