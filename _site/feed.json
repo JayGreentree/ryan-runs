@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://ryan.micro.blog/2017/12/22/my-marathon-training.html",
+	      	
+			"content_html": "<p>My marathon training site ryanruns.com is archived at the domain. This account is general purpose until my next adventure. A big thank you to <a href=\"https://micro.blog/manton\">@manton</a> for making it easy to move my site/content out to Github as a permanent static archive.</p>\n",
+			"date_published": "2017-12-22T14:40:00-06:00",
+			"url": "https://ryan.micro.blog/2017/12/22/my-marathon-training.html"
+		},
+		
+		{
 			"id": "http://ryan.micro.blog/2017/12/22/marathon-wrapup.html",
 	      	
 			"title": "Marathon Wrap-up",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Last training run today. Now to focus on more rest, perhaps a bit of carbo-loading, and getting my head straight. </p>\n",
 			"date_published": "2017-11-29T08:17:00-06:00",
 			"url": "https://ryan.micro.blog/2017/11/29/last-training-run.html"
-		},
-		
-		{
-			"id": "http://ryan.micro.blog/2017/11/27/making-my-playlist.html",
-	      	
-			"content_html": "<p>Making my playlist for Sunday. For a while I didn’t run with headphones but enjoying it again. </p>\n",
-			"date_published": "2017-11-27T17:06:00-06:00",
-			"url": "https://ryan.micro.blog/2017/11/27/making-my-playlist.html"
 		}
 		
 	]
