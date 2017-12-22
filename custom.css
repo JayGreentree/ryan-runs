@@ -1,0 +1,32 @@
+.main__content ul {
+  list-style: square; !important
+ }
+
+.main__content table {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.main__content table caption {
+  font-size: 1.5em;
+  margin: .5em 0 .75em;
+}
+.main__content table tr {
+  background: #f8f8f8;
+  border: 1px solid #ddd;
+  padding: .35em;
+}
+.main__content table th,
+table td {
+  padding: .625em;
+  text-align: center;
+}
+.main__content table th {
+  font-size: .85em;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
