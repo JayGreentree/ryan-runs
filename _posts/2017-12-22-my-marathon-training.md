@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-22 14:40 -0600
+audio: 
+date: 2017-12-22 15:40:25 -0500
 guid: http://ryan.micro.blog/2017/12/22/my-marathon-training.html
 ---
 My marathon training site ryanruns.com is archived at the domain. This account is general purpose until my next adventure. 
