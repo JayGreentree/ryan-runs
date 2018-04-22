@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-09-13 11:18 -0600
+audio: 
+date: 2017-09-13 12:18:09 -0500
 guid: http://ryan.micro.blog/2017/09/13/another-photo-from.html
 ---
 Another photo from my morning run in Cedar Rapids. I wonder what they make there. 
