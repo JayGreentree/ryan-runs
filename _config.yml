@@ -15,6 +15,7 @@ baseurl: ""
 url: "https://ryan.micro.blog"
 markdown: "kramdown"
 username: "ryan"
+microblog_user: "ryan"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "Ryan Irelan"
@@ -30,3 +31,6 @@ paginate: 20
 paginate_path: "/page/:num/"
 timezone: "US/Indiana-Starke"
 site_id: "1549"
+gems: ["jekyll-paginate"]
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
