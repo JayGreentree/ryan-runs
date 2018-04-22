@@ -2,7 +2,8 @@
 layout: post
 title: "3 Hour Run with Series 3 Nike+ Apple Watch (with LTE)"
 microblog: false
-date: 2017-10-08 09:30 -0600
+audio: 
+date: 2017-10-08 10:30:54 -0500
 guid: http://ryan.micro.blog/2017/10/08/hour-run-with.html
 ---
 Yesterday's long run was my first run with the Apple Watch Series 3 GPS + LTE, Nike+ edition. I've been running with my Series 0 Apple Watch since 2015 but I always carried my phone with me. I have a giant iPhone 6s Plus and it's annoying to carry, even using the SPIBelt. 
