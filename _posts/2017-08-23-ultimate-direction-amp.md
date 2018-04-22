@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-08-23 08:26 -0600
+audio: 
+date: 2017-08-23 09:26:30 -0500
 guid: http://ryan.micro.blog/2017/08/23/ultimate-direction-amp.html
 ---
 Ultimate Direction AMP handheld - I am trying this one out for my runs. I've previously used Amphipod and Nathan. A reviewer described it as like holding a wet baguette when it's not completely full. I agree. I like it because it efficiently holds 17oz. [amzn.to/2wnty2J](http://amzn.to/2wnty2J)
