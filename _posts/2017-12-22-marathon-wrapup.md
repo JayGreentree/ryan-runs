@@ -2,7 +2,8 @@
 layout: post
 title: "Marathon Wrap-up"
 microblog: false
-date: 2017-12-21 20:36 -0600
+audio: 
+date: 2017-12-21 21:36:36 -0500
 guid: http://ryan.micro.blog/2017/12/22/marathon-wrapup.html
 ---
 I am wrapping up this version of my microblog with a recap of the culmination of months of training: completing my first marathon.
