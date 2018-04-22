@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-08-22 05:52 -0600
+audio: 
+date: 2017-08-22 06:52:56 -0500
 guid: http://ryan.micro.blog/2017/08/22/tuesday-morning-training.html
 ---
 Tuesday morning training run. 3 miles at a comfortable pace. Felt good. Legs are fine after the long run over the weekend. Heart rate was good throughout. Got this one in before sunrise which helped (only slightly) with the heat. Ran in about 77 degrees. Still too hot!
